@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.neocard.personal",
+      "sha256_cert_fingerprints": [
+        "8D:3F:7A:F2:56:8E:D2:CB:9A:B5:62:1D:1D:35:28:50:5F:6B:40:B8:9D:EA:88:B1:5B:33:C6:25:88:8E:51:33"
+      ]
+    }
+  }
+]
