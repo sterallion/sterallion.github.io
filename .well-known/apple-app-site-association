@@ -5,7 +5,7 @@
       {
         "appID": "D5R88HY7R9.com.neocard.app",
         "paths": [
-          "NOT /",
+          "NOT ",
           "/signup/*"
         ]
       },
