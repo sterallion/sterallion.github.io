@@ -3,16 +3,8 @@
     "apps": [],
     "details": [
       {
-        "appID": "D5R88HY7R9.com.neocard.app.business",
-        "paths": [
-          "NOT /_/*",
-          "/*"
-        ]
-      },
-      {
         "appID": "D5R88HY7R9.com.neocard.app",
         "paths": [
-          "NOT /_/*",
           "/signup/*"
         ]
       }
