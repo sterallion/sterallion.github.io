@@ -7,7 +7,7 @@
         "paths": [
           "NOT /",
           "NOT ",
-          "/signup/*",
+          "/signup/*"
         ]
       }
     ]
