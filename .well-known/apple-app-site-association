@@ -2,24 +2,10 @@
   "applinks": {
     "apps": [],
     "details": [
-     {
+      {
         "appID": "D5R88HY7R9.com.neocard.app",
         "paths": [
-          "NOT /",
-          "NOT ",
-          "/signup/*"
-        ]
-      },
-      {
-        "appIDs": [ "D5R88HY7R9.com.neocard.app" ],
-        "components": [
-          {
-            "/": "/*",
-            "exclude": true
-          },
-          {
-            "/": "/signup/*"
-          }
+        
         ]
       }
     ]
